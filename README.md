@@ -1,70 +1,133 @@
-<h1 align="center">Hi 👋, I'm Kishor</h1>
-<h3 align="center">Final Year Computer Science and Business Systems Student</h3>
+<div align="center">
 
-<p align="center">
-💻 MERN Stack Developer | 📊 Business Analyst Enthusiast | 🚀 Problem Solver
-</p>
+# Hi 👋, I'm Kishor
+
+### 💻 MERN Stack Developer | 📊 Business Analyst | 🚀 Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Business+Analyst+Enthusiast;Hackathon+Winner;LeetCode+Problem+Solver" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Final Year CSBS Student at Sri Eshwar College of Engineering
-- 💡 Interested in MERN Stack and Business Analysis
-- 🌱 Currently learning System Design & Cloud Technologies
-- 🏆 Hackathon Winner with 20K Prize
-- 🔥 Solved 300+ Problems in LeetCode
+🎓 Final Year Computer Science and Business Systems Student  
+🏫 Sri Eshwar College of Engineering  
+
+💡 Passionate about:
+- MERN Stack Development
+- Business Analysis
+- System Design
+- Cloud Technologies
+
+🏆 Achievements:
+- 🥇 Hackathon Winner
+- 💰 Won 20K Prize
+- 🔥 Solved 300+ LeetCode Problems
 - 📈 LeetCode Rating: 1530
 
 ---
 
-## 🛠️ Tech Stack
+# 🌐 Connect With Me
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+<p align="center">
 
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<a href="https://www.linkedin.com/in/kishor-s-365706291/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🔥 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+<a href="https://github.com/KishorS-06">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 💻 Tech Stack
 
-### 🔹 Webhook Tester
-A developer tool used to analyze and test webhook requests.
+<div align="center">
 
-### 🔹 Relief
-A Flutter disaster management application for demand & supply coordination.
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,react,nodejs,express,mongodb,mysql,spring,html,css,tailwind,flutter,firebase,git,github,vscode,postman,docker,aws" />
 
-### 🔹 RSVP Management System
-A MERN stack event invitation and RSVP tracking platform.
+</div>
 
 ---
 
-## 🏆 Achievements
+# 🚀 Featured Projects
 
-- 🥇 Won 1st Prize in Hackathon at Sri Shakti College
-- 💰 Received 20K Cash Prize
-- 🎯 Participated in Multiple Hackathons
-- 📜 Certifications in Udemy & NPTEL
+## 🔹 Webhook Tester
+Developer tool for analyzing and testing webhook requests.
+
+## 🔹 Relief
+Disaster management application connecting people in need with helpers.
+
+## 🔹 RSVP Management System
+MERN Stack application for invitation and RSVP tracking.
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kishor-s-365706291/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/KishorS-06)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KishorS-06&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishorS-06&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishorS-06&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishorS-06&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/KishorS-06/KishorS-06/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishorS-06&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KishorS-06&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<div align="center">
+
+### ✨ "Turning Ideas Into Real Products" ✨
+
+</div>
